@@ -1,1 +1,5 @@
-# MYSELFREADME
+- 👋 Hi, I’m @Visheshsinghal
+- 👀 I’m interested in learning programming languages,building softwares and websites..
+- 🌱 I’m currently learning Python,Java..
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me by email:- singhalvishesh56@gmail.com or by linkedin:- https://www.linkedin.com/in/vishesh-singhal-50bab9136
